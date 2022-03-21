@@ -10,7 +10,9 @@
 
   # Usage
 
-  **https://jatetext.herokuapp.com/**
+  **https://aqueous-plateau-16455.herokuapp.com/**
+
+  ** 'npm run build' then 'npm run start' to run locally on server.
   
   # License
   
